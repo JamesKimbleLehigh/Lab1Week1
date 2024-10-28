@@ -1,0 +1,5 @@
+Author: James Kimble
+Date written: 10/23/2024
+Last updated: 10/23/2024
+Libraries: msp430.h
+Description:  Inputs of buttons on P4.1 and on P2.3.  These inputs toggle the red LED and green LED on P1.0 and P6.6 respectively.  Note that P4.1 toggles the red LED and P2.3 toggles the green LED.
