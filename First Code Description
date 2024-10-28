@@ -1,0 +1,5 @@
+Author: James Kimble
+Date written: 10/23/2024
+Last updated: 10/23/2024
+Libraries: msp430.h
+Description:  Assign values to variables and manipulate these variables with simple math functions.
